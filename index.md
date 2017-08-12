@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Ytsen de Boer
 
 You can use the [editor on GitHub](https://github.com/yrdeboer/developing_data_products_quiz_week_2/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
