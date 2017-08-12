@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 
 ## Test R
-```{ r }
+```{ r, eval = TRUE }
 x <- 16 + 8
 print(x)
 ```
