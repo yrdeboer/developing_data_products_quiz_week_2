@@ -5,10 +5,7 @@ You can use the [editor on GitHub](https://github.com/yrdeboer/developing_data_p
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 
-## Test R
-```{ r }
-print('hoi')
-```
+
 
 
 ### Markdown
@@ -17,6 +14,10 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ```markdown
 Syntax highlighted code block
+
+```{ r }
+16 + 8
+```
 
 # Header 1
 ## Header 2
